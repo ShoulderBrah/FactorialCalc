@@ -19,3 +19,6 @@ Here is an example:
 8! = 8 * (8 + 6 = 14) * (14 + 4 = 18) * (18 + 2 = 20)
 
 If the number N happens to be odd I just calculate the factorial of N-1 and than multiply it by N.
+
+The execution time using the first method is shown after "1. Execution time:".
+The execution time using the second method is shown after "2. Execution time:"
